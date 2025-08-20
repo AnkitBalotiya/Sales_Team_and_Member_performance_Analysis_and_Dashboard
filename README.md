@@ -28,7 +28,7 @@ This dashboard analyzes **Actual Sales vs. Target Sales** across months, teams, 
 
 ---
 ## 📊 Dashboard Image
-![Sales Dashboard](./images/dashboard.png)
+![Sales Dashboard](./images/Dashboard.png)
 
 ## 🧩 Data Model (ER Diagram)
 ![Data Model](./images/Data_model.png)
